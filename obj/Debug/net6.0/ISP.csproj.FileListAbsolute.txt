@@ -1,0 +1,15 @@
+D:\C#Projects\SOLID - Principels\ISP\bin\Debug\net6.0\ISP.exe
+D:\C#Projects\SOLID - Principels\ISP\bin\Debug\net6.0\ISP.deps.json
+D:\C#Projects\SOLID - Principels\ISP\bin\Debug\net6.0\ISP.runtimeconfig.json
+D:\C#Projects\SOLID - Principels\ISP\bin\Debug\net6.0\ISP.dll
+D:\C#Projects\SOLID - Principels\ISP\bin\Debug\net6.0\ISP.pdb
+D:\C#Projects\SOLID - Principels\ISP\obj\Debug\net6.0\ISP.csproj.AssemblyReference.cache
+D:\C#Projects\SOLID - Principels\ISP\obj\Debug\net6.0\ISP.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Projects\SOLID - Principels\ISP\obj\Debug\net6.0\ISP.AssemblyInfoInputs.cache
+D:\C#Projects\SOLID - Principels\ISP\obj\Debug\net6.0\ISP.AssemblyInfo.cs
+D:\C#Projects\SOLID - Principels\ISP\obj\Debug\net6.0\ISP.csproj.CoreCompileInputs.cache
+D:\C#Projects\SOLID - Principels\ISP\obj\Debug\net6.0\ISP.dll
+D:\C#Projects\SOLID - Principels\ISP\obj\Debug\net6.0\refint\ISP.dll
+D:\C#Projects\SOLID - Principels\ISP\obj\Debug\net6.0\ISP.pdb
+D:\C#Projects\SOLID - Principels\ISP\obj\Debug\net6.0\ISP.genruntimeconfig.cache
+D:\C#Projects\SOLID - Principels\ISP\obj\Debug\net6.0\ref\ISP.dll
