@@ -8,5 +8,5 @@ Com o decorrer do tempo foi adicionada uma nova funcionalidade a interface, de u
 
 Para solucionar esse problema surge o princípio de segregação de interface, partindo da ideia de que cada interface deve ser especializada para implementar os métodos que serão utilizados de acordo com a regra de negócio por sua respectiva classe, assim não sobrarão métodos vazios ou inúteis em outras classes.
 
-## Para saber mais detalher acesse o artigo abaixo:
+## Para saber mais detalhes acesse o artigo abaixo:
 [Artigo Interface Segregation Principle](https://medium.com/@JoaoVictorCarneiroAureliano/interface-segregation-principle-isp-e001d601949c)
